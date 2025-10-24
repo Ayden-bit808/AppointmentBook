@@ -46,7 +46,7 @@ public class Main {
         System.out.println(b.makeAppointment(3,4,3));
         b.printPeriod(3);
 
-        b.printPeriod(2);
+        //b.printPeriod(2);
 
 
     }
